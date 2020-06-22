@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "791654770111",
+    "firebase_url": "https://forceupdate-66daf.firebaseio.com",
+    "project_id": "forceupdate-66daf",
+    "storage_bucket": "forceupdate-66daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791654770111:android:e2d1ea358dbd9e6809ed0a",
+        "android_client_info": {
+          "package_name": "com.example.forceupdate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "791654770111-sgd04v370pq9phg0bejoj3p1g3gu4h4p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2n31c_IzDUbmiU6_0XqYlzV3YqJ7aHtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "791654770111-sgd04v370pq9phg0bejoj3p1g3gu4h4p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
