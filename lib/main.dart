@@ -38,7 +38,7 @@ class _HomeState extends State<Home> {
         NativeUpdater.displayUpdateAlert(
           context,
           forceUpdate: true,
-          playStoreUrl: 'https://play.google.com/store/apps/details?id=com.champion.profileanalyzer&gl=TR',
+          playStoreUrl: '', // Uygulamanın Play Store Linki
         );
       }
     });
